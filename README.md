@@ -21,6 +21,7 @@
 
 - 工具: Html, Css/Sass, Javascript
 - 圖示: [Font Awesome 6](https://fontawesome.com)
+- 圖片: [pngtree](https://.pngtree.com/free-backgrounds)
 - 參考: [Portfolio/Youtube](https://www.youtube.com/watch?v=mq0xJxOTiYo)
 
 ***
