@@ -8,8 +8,6 @@
 
 讓各位能夠輕鬆擁有自己的個人網站
 
-<br>
-
 ***
 
 - 預覽: [Github.io](https://pardnchiu.github.io/joball-template-2/)
