@@ -26,13 +26,11 @@
 
 ***
 
-<!-- | index |
-|---|
-| ![index](./preview/index.png) |
-
 | portfolio |
 |---|
-| ![album](./preview/portfolio.png) | -->
+| ![album](https://pardnchiu.github.io/joball-template-2/preview/portfolio.png) |
+
+***
 
 Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
 
