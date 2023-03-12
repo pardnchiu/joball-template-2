@@ -8,27 +8,29 @@
 
 讓各位能夠輕鬆擁有自己的個人網站
 
-***
-
-- 預覽: [Github.io](https://pardnchiu.github.io/joball-template-2/)
-- 源碼: [Github.com](https://github.com/pardnchiu/joball-template-2/)
-- 授權: [MIT LICENSE](https://github.com/pardnchiu/joball-template-2/blob/main/LICENSE)
-- 開發: [Pardn Chiu](https://joball.tw/@pardnltd)
-
-***
-
-- 工具: Html, Css/Sass, Javascript
-- 圖示: [Font Awesome 6](https://fontawesome.com)
-- 圖片: [pngtree](https://.pngtree.com/free-backgrounds)
-- 參考: [Portfolio/Youtube](https://www.youtube.com/watch?v=mq0xJxOTiYo)
+- [Github.io](https://pardnchiu.github.io/joball-template-2/)
+- [Github.com](https://github.com/pardnchiu/joball-template-2/)
+- [MIT LICENSE](./LICENSE)
+- Html, Css/Sass, Javascript
+- [Font Awesome 6](https://fontawesome.com/v6/search)
+- [Freepik](https://www.freepik.com)
+- [pngtree](https://.pngtree.com/free-backgrounds)
+- [Model](https://www.youtube.com/watch?v=mq0xJxOTiYo)
 
 ***
 
-| portfolio |
+### Pardn Chiu 邱敬幃
+
+- [Joball](https://joball.tw/@pardnltd)
+- [Linkedin](https://www.linkedin.com/in/pardnchiu/)
+- [Line@](http://lin.ee/Gtcb5kc)
+
+***
+
+| Preview-Portfolio |
 |---|
-| ![album](https://pardnchiu.github.io/joball-template-2/preview/portfolio.png) |
+| ![JOBALL Template 網站套版 2 作品頁 預覽](./preview/portfolio.png) |
 
 ***
 
 Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
-
